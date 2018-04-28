@@ -227,3 +227,4 @@ key: string}
 Replies to forumPost with postId `postId`, the reply has the body `body`. If `locked` is true the replies to the post will be disabled.
 
 [newPostId: number]
+"# Vortex-group-bot" 
